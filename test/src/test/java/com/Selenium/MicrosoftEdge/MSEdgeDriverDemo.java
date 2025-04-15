@@ -15,7 +15,7 @@ public class MSEdgeDriverDemo {
         driver.manage().window().maximize();
 
         driver.get("https://girdharithakur.in");
-        Thread.sleep(3000);
+        Thread.sleep(6000);
 
         driver.quit();
 
